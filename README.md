@@ -10,7 +10,7 @@ Road map:
 | 3 | Frontend Review |    [Click here](files/class3.md) |
 | 4 | Django View and templates part 1 |    [Click here](files/class4.md) |
 | 5 | Django View and templates part 2 |    [Click here](files/class5.md) |
-| 6 | Django View and templates part 3 |    [Click here](Link) |
+| 6 | Django View and templates part 3 |    [Click here](files/class5.md) |
 | 7 | Database |    [Click here](Link) |
 | 8 | PostgreSQL part 1 |    [Click here](Link) |
 | 9 | PostgreSQL part 2 |    [Click here](Link) |
