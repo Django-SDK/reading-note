@@ -11,8 +11,8 @@ Road map:
 | 4 | Django View and templates part 1 |    [Click here](files/class4.md) |
 | 5 | Django View and templates part 2 |    [Click here](files/class5.md) |
 | 6 | Django View and templates part 3 |    [Click here](files/class6.md) |
-| 7 | Database |    [Click here](Link) |
-| 8 | PostgreSQL part 1 |    [Click here](Link) |
+| 7 | Database |    [Click here](files/class7.md) |
+| 8 | PostgreSQL part 1 |    [Click here](files/class8.md) |
 | 9 | PostgreSQL part 2 |    [Click here](Link) |
 | 10 | MongoDB part 1 |    [Click here](Link) |
 | 11 | MongoDB part 2 |    [Click here](Link) |
